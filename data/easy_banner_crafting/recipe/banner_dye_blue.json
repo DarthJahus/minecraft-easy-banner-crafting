@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "banner_dye",
+  "show_notification": true,
+  "ingredients": [
+    "#minecraft:banners",
+    "minecraft:blue_dye"
+  ],
+  "result": {
+    "id": "minecraft:blue_banner",
+    "count": 1
+  }
+}

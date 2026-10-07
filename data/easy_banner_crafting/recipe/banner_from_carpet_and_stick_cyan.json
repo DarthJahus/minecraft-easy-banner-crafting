@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "easy_banner",
+  "show_notification": true,
+  "pattern": [
+    "W",
+    "W",
+    "S"
+  ],
+  "key": {
+    "W": "minecraft:cyan_carpet",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:cyan_banner",
+    "count": 1
+  }
+}

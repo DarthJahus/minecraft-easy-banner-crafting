@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "easy_banner",
+  "show_notification": true,
+  "pattern": [
+    "W",
+    "W",
+    "S"
+  ],
+  "key": {
+    "W": "minecraft:gray_carpet",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:gray_banner",
+    "count": 1
+  }
+}
